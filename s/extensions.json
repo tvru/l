@@ -20,10 +20,10 @@
 		},
 		{
 		"name": "Публичные парсеры",
-    		"author": "@lme_chat",
-    		"link": "https://lampame.github.io/main/pubtorr.js",
-    		"descr": "Сборник публичных парсеров отображением статуса доступности",
-    		"available_lampa": 1
+    	"author": "@lme_chat",
+    	"link": "https://lampame.github.io/main/pubtorr.js",
+    	"descr": "Сборник публичных парсеров отображением статуса доступности",
+    	"available_lampa": 1
 		}
       ],
       "hpu": "best"
@@ -38,7 +38,14 @@
 		"descr": "Фильмы и сериалы в онлайн. На выбор доступно 17 балансеров и различные дополнения через меню настроек Modss.",
 		"available_lampa": 1
 		},
-                {
+		{
+		"name": "Z1 Онлайн",
+		"author": "@z1",
+		"link": "http://z01.online/live",
+		"descr": "Фильмы и сериалы онлайн без подписки и очень удобно.",
+		"available_lampa": 1
+		},
+        {
 		"name": "Онлайн Мод",
 		"author": "@t_anton",
 		"link": "https://nb557.github.io/plugins/online_mod.js",
@@ -59,21 +66,21 @@
 		"descr": "Новая версия. Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
 		"available_lampa": 1
 		},
-	      	{
+	    {
 		"name": "Onlyskaz (free)",
 		"author": "@helpiptv",
 		"link": "http://skaz.tv/vcdn.js",
 		"descr": "Фильмы и сериалы в онлайн",
 		"available_lampa": 1
 		},  
-	      	{
+	    {
 		"name": "BwaRC",
 		"author": "@bwato",
 		"link": "http://bwa.to/co",
 		"descr": "Фильмы и сериалы в онлайн. Работает на старых устройствах",
 		"available_lampa": 1
 		},  
-	      	{
+	    {
 		"name": "Onlyskaz",
 		"author": "@helpiptv",
 		"link": "http://skaz.tv/onlines.js",
@@ -81,13 +88,13 @@
 		"available_lampa": 1
 		},  
 		{
-		"name": "Showy",
+		"name": "Смотреть (Showy)",
 		"author": "Showy",
-		"link": "http://showwwy.com/m.js",
-		"descr": "Необходима авторизация через телеграм бота. Онлайн, поддержка 4к",
+		"link": "http://smotret24.ru/online.js",
+		"descr": "Простой плагин для просмотра видео",
 		"available_lampa": 1
 		},
-	      	{
+	    {
 		"name": "Онлайн Stream",
 		"author": "",
 		"link": "http://arkmv.ru/vod",
@@ -217,49 +224,49 @@
     {
       "title": "Разное",
       "results": [
-	      	 {
-      		"name": "Рейтинг CUB в карточке фильма",
-      		"author": "RootU",
-      		"link": "https://plugin.rootu.top/cub-rating.js",
-      		"descr": "Выводит средний рейтинг (общую оценкую) на основе реакций пользователей",
-      		"available_lampa": 1
+	    {
+      	"name": "Рейтинг CUB в карточке фильма",
+      	"author": "RootU",
+      	"link": "https://plugin.rootu.top/cub-rating.js",
+      	"descr": "Выводит средний рейтинг (общую оценкую) на основе реакций пользователей",
+      	"available_lampa": 1
  	   	},
-	        {
-      		"name": "Настройка шапки",
-      		"author": "@and7ey",
-      		"link": "https://and7ey.github.io/lampa/head_filter.js",
-      		"descr": "Добавляет возможность скрыть элементы в шапке приложения Лампа",
-      		"available_lampa": 1
+	    {
+      	"name": "Настройка шапки",
+      	"author": "@and7ey",
+      	"link": "https://and7ey.github.io/lampa/head_filter.js",
+      	"descr": "Добавляет возможность скрыть элементы в шапке приложения Лампа",
+      	"available_lampa": 1
  	   	},
 	  	{
-      		"name": "Кинопоиск",
-      		"author": "@and7ey",
-      		"link": "https://and7ey.github.io/lampa/kinopoisk.js",
-      		"descr": "Отображает в приложении список фильмов из папки Буду смотреть на Кинопоиске",
-      		"available_lampa": 1
+      	"name": "Кинопоиск",
+      	"author": "@and7ey",
+      	"link": "https://and7ey.github.io/lampa/kinopoisk.js",
+      	"descr": "Отображает в приложении список фильмов из папки Буду смотреть на Кинопоиске",
+      	"available_lampa": 1
  	 	},
-	    	{
+	    {
 		"name": "SomaFM",
 		"author": "@tsynik",
 		"link": "https://tsynik.github.io/lampa/soma.js",
 		"descr": "Радио для Lampa",
 		"available_lampa": 1
 		},
-	     	 {
+	     {
 		"name": "Радио Рекорд",
 		"author": "@helpiptv",
 		"link": "https://lampaplugins.github.io/store/record.js",
 		"descr": "Радио Рекорд",
 		"available_lampa": 1
 		},
-	      	{
+	    {
 		"name": "Отзывы/рецензии с КиноПоиск",
 		"author": "@helpiptv",
 		"link": "https://skaz.tv/o.js",
 		"descr": "Отзывы с КиноПоиск",
 		"available_lampa": 1
 		},
-	        {
+	    {
 		"name": "Комментарии к фильмам от Rezka",
 		"author": "@BDV_Burik",
 		"link": "https://bdvburik.github.io/rezkacomment.js",
@@ -274,26 +281,26 @@
 		"available_lampa": 1
 		},
 		{
-    		"name": "Предзагрузка ts",
-    		"author": "@rootu",
-    		"link": "https://plugin.rootu.top/ts-preload.js",
-    		"descr": "Плагин визуализации предзагрузки торрентов для встроенного клиента TorrServer",
-    		"available_lampa": 1
-    		},
-    		{
-    		"name": "Приятные мелочи",
-    		"author": "@AndreyURL54",
-    		"link": "http://skaztv.online/js/tricks.js",
-    		"descr": "Дополнение некоторых востребованных функций и дизайна, которых вам не хватало. (mod. Без проверки на MSX)",
-    		"available_lampa": 1
-      		},
-      		{
-    		"name": "Отключение Websocket",
-    		"author": "@rootu",
-    		"link": "http://plugin.rootu.top/wsoff.js",
-    		"descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах",
-    		"available_lampa": 1
-    		}
+    	"name": "Предзагрузка ts",
+    	"author": "@rootu",
+    	"link": "https://plugin.rootu.top/ts-preload.js",
+    	"descr": "Плагин визуализации предзагрузки торрентов для встроенного клиента TorrServer",
+    	"available_lampa": 1
+    	},
+    	{
+    	"name": "Приятные мелочи",
+    	"author": "@AndreyURL54",
+    	"link": "http://skaztv.online/js/tricks.js",
+    	"descr": "Дополнение некоторых востребованных функций и дизайна, которых вам не хватало. (mod. Без проверки на MSX)",
+    	"available_lampa": 1
+      	},
+      	{
+    	"name": "Отключение Websocket",
+    	"author": "@rootu",
+    	"link": "http://plugin.rootu.top/wsoff.js",
+    	"descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах",
+    	"available_lampa": 1
+    	}
           ],
           "hpu": "other"
     }

@@ -24,7 +24,14 @@
     	"link": "https://lampame.github.io/main/pubtorr.js",
     	"descr": "Сборник публичных парсеров отображением статуса доступности",
     	"available_lampa": 1
-		}
+		},
+      	{
+    	"name": "Добавляет пункт \"Парсер\" в меню",
+    	"author": "@lampa",
+    	"link": "http://cub.red/plugin/etor",
+    	"descr": "Плагин для ТВ, на которых Lampa установлена через официальные магазины LG Store и Tizen App Store. Включает в настройках отображение пунктов Парсер и Torrserver",
+    	"available_lampa": 1
+      	}
       ],
       "hpu": "best"
     },
@@ -142,7 +149,7 @@
     		"descr": "Плагин для ТВ, на которых Lampa установлена через официальные магазины LG Store и Tizen App Store. Включает в настройках отображение пунктов Парсер и Torrserver",
     		"available_lampa": 1
       		},
-    	    	{
+    	    {
     		"name": "Публичные парсеры",
     		"author": "@lme_chat",
     		"link": "https://lampame.github.io/main/pubtorr.js",

@@ -12,7 +12,7 @@
 		"available_lampa": 1
 		},
 		{
-		"name": "BwaRC",
+		"name": "BwaRC !",
 		 "author": "@bwato",
 		"link": "http://bwa.to/rc",
 		"descr": "Новая версия. Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
@@ -52,15 +52,29 @@
 		"descr": "Фильмы и сериалы в онлайн",
 		"available_lampa": 1
 		},
+	    {
+		"name": "NetFix",
+		"author": "@netfix_party",
+		"link": "https://netfix.cc/netfix.js",
+		"descr": "Лучшее кино и сериалы - быстро, удобно, в высоком качестве.",
+		"available_lampa": 1
+		},
 		{
-		"name": "BwaJS",
+		"name": "Онлисказ 4к",
+		"author": "@helpiptv",
+		"link": "http://skaz.tv/onlines.js",
+		"descr": "Онлайн Фильмы и Сериалы 4к. Тестовый период через бота.",
+		"available_lampa": 1
+		},
+		{
+		"name": "BwaJS - !",
 		"author": "@bwato",
 		"link": "https://bwa.to/o",
 		"descr": "Старая, но рабочая версия. Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
 		"available_lampa": 1
 		},
 		{
-		"name": "BwaRC",
+		"name": "BwaRC - !",
 		 "author": "@bwato",
 		"link": "http://bwa.to/rc",
 		"descr": "Новая версия. Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
@@ -110,7 +124,7 @@
 	      	{
       		"name": "Трейлеры с Рутуб",
       		"author": "@RootU",
-      		"link": "https://plugin.rootu.top/rutube2.js",
+      		"link": "https://plugin.rootu.top/rutube.js",
       		"descr": "Добавляет кнопку трейлеры с сервиса RuTube",
       		"available_lampa": 1
  	   	},
